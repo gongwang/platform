@@ -81,3 +81,7 @@ npm start
 ```
 docker build -t registry.cn-hangzhou.aliyuncs.com/baibaicloud/baibai-platform:1.0.2 .
 ```
+
+# 下一步开发计划
+1.客户端支持linux系统。
+2.堡垒机相关功能，不依赖客户端，对公网PC能够发起远程控制。
