@@ -27,25 +27,28 @@ java-jdk1.8
 
 # 百百系统界面
 ### 登录
-![登录.png](./minishowimages/登录.png)
+![登录.png](https://img-blog.csdnimg.cn/2020072523185896.png)
 
 ### 注册界面
-![注册界面.png](./minishowimages/注册界面.png)
+![注册界面.png](https://img-blog.csdnimg.cn/20200725231914968.png)
 
 ### 网元管理
-![网元管理.png](./minishowimages/网元管理.png)
+![网元管理.png](https://img-blog.csdnimg.cn/20200725231950291.png)
 
 ### 网元菜单
-![网元菜单.png](./minishowimages/网元菜单.png)
+![网元菜单.png](https://img-blog.csdnimg.cn/2020072523200343.png)
 
-### 控制
-![控制.png](./minishowimages/控制.png)
+### 远程控制
+![控制.png](https://img-blog.csdnimg.cn/20200725232021807.png)
+
+### 客户端
+![控制.png](https://img-blog.csdnimg.cn/20200725232103974.png)
 
 ### 内网穿透
-![内网穿透.png](./minishowimages/内网穿透.png)
+![内网穿透.png](https://img-blog.csdnimg.cn/20200725232124791.png)
 
 ### 企业管理
-![企业管理.png](./minishowimages/企业管理.png)
+![企业管理.png](https://img-blog.csdnimg.cn/20200725232137332.png)
 
 # 一键部署百百系统
 [请查看./deployment/readme.md](./deployment/readme.md)
