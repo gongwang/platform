@@ -49,7 +49,7 @@ success
 # 访问百百系统
 [http://127.0.0.1:8080/login](http://127.0.0.1:8080/login)
 
-![登录.png](../minishowimages/登录.png)
+![登录.png](https://img-blog.csdnimg.cn/2020072523185896.png)
 
 # 客户端安装
 [客户端](https://github.com/baibaicloud/prober)
